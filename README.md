@@ -6,7 +6,7 @@ Credenz nights, SIG sessions, hackathons, and the people who made them happen. T
 
 | Event | When | Photos |
 |---|---|---|
-| **Credenz '26**: *Warping Realities* | Feb 2026 | 🔜 link coming soon |
+| **Credenz '26**: *Warping Realities* | Feb 2026 | [📷 Google Drive](https://drive.google.com/drive/folders/1ck3jHTiYASixjEPtXIQdk_mStWlPTAAo?usp=sharing) |
 | **Credenz Tech Dayz (CTD) '26** | 2026 | 🔜 coming soon |
 | **Credenz '25** | Feb 2025 | 🔜 coming soon |
 | **TechRush** | — | 🔜 coming soon |
